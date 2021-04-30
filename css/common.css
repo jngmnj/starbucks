@@ -206,8 +206,8 @@ header .main-menu {
   /* 오른쪽 배너위에 떠야돼서 */
   display: flex;
 }
-header .main-menu .item {
-}
+
+/* header .main-menu .item {} */
 
 header .main-menu .item .item__name {
   padding: 10px 20px 34px 20px;
